@@ -1,0 +1,59 @@
+body {
+    background-color:#5CCCCC ;
+    font-size: 50px;
+}
+
+img {
+    width: 40px;
+    height: 50px;
+}
+
+.main_section {
+    border-bottom: 10px dotted darkcyan;
+    text-align: center;
+}
+
+.logo {
+    font-size: small;
+    text-align: center;
+}
+
+header {
+    background-color:#FFB273 ;
+}
+
+ul li {
+    background-size: 20px;
+}
+
+ul {
+    list-style-image: url(rocket-lunch_6955775.png);
+}
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    color: darkcyan;
+}
+
+.hobbys {
+    border:20px dotted darkcyan;
+    border-radius: 25%; 
+}
+
+img {
+    height: 300px;
+    width: 600px;
+}
+
+.facts-flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.hobbys-me {
+    border-bottom: 10px solid #ffb273;
+    margin: 0px 15px;
+}
+
+
